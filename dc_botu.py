@@ -48,4 +48,4 @@ async def s(ctx) :
     await bot.delete_message(ctx.message)      #yazdığın komutu bot yazıyor ama listede alıyor
     await bot.send_message(ctx.message.channel , baba)
 
-bot.run("NzY0MTMzNTgzNzY1NzY2MTc1.X4B02w.KOdjTJczB3_IN5TRloh8T13e95w")
+bot.run("NzY0MTMzNTgzNzY1NzY2MTc1.X4B02w._4ehSAnO3hzNq_1FQiLJ9XlXqBc")
